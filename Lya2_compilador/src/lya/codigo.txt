@@ -1,0 +1,8 @@
+//Historia de usuario 1 :Crear tabla de simbolos
+class a {
+int x=1;
+int y=2;
+boolean e=true;
+double z;
+
+}
